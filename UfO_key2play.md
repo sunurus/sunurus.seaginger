@@ -1,4 +1,4 @@
-## 🎮 Key2Play로 즐길 수 있는 게임 | One-Key Games
+## 🎮 Key2Play로 즐길 수 있는 게임 추천 | One-Key Games
 
 Key2Play는 원하는 키를 설정할 수 있는 원키 키보드입니다. 버튼 하나로 다양한 게임을 즐겨보세요!
 
