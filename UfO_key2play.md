@@ -1,3 +1,18 @@
+### 💻 다양한 기기에서 사용 가능 | Cross-Platform Compatibility
+
+Key2Play는 USB 키보드처럼 작동하여 **스마트폰, 노트북, 데스크톱** 등 다양한 기기에서 사용할 수 있습니다.
+
+Key2Play works as a USB keyboard and can be used with **smartphones, laptops, and desktop computers**.
+
+- 📱 **스마트폰 | Smartphone** — USB-C 또는 호환 어댑터로 연결
+- 💻 **노트북 | Laptop** — USB 연결 후 사용
+- 🖥️ **데스크톱 | Desktop** — USB 연결 후 사용
+
+*기기에 따라 USB OTG 지원이나 별도 어댑터가 필요할 수 있습니다. 게임 및 설정 프로그램의 호환성은 운영체제와 브라우저에 따라 달라집니다.*
+
+*USB OTG support or an adapter may be required. Game and configuration software compatibility varies by device, operating system, and browser.*
+
+
 ## 🎮 Key2Play로 즐길 수 있는 게임 추천 | One-Key Games
 
 Key2Play는 원하는 키를 설정할 수 있는 원키 키보드입니다. 버튼 하나로 다양한 게임을 즐겨보세요!
